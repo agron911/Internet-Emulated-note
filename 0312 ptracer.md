@@ -39,7 +39,7 @@ https://www.digitimes.com.tw/tw/dt/n/shwnws.asp?cnlid=10&cat=&cat1=&id=109018
 # show ip int brief //顯示所有介面卡
 ```
 
-## 兩台主ˇ雞戶聯
+## 兩台主機互聯
 先拉一台Router-PT , PC0 , PC1
 * 用console線將router,pc0 連起來。 
 * 用copper cross-over 連pc0, pc1，右鍵選擇ether
